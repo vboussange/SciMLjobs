@@ -20,4 +20,4 @@ Contributions are welcome. Feel free to make a pull request to complement the en
 | [Celest.science](https://www.celest.science) |☀️ Weather/climate forecasting, 🌊Risk | 🇫🇷 |- |
 | [Ismomorphic labs](https://www.isomorphiclabs.com) | 🧪Biology | 🇨🇭🇬🇧|-|
 | [Brightband](https://www.brightband.com) | ☀️ Weather/climate forecasting | - | - |
-| [Cradle.bio](https://www.cradle.bio) | 🧪 Biology | 🇨🇭| Protein engineering |
+| [Cradle.bio](https://www.cradle.bio) | 🧪 Biology | 🇨🇭🇳🇱| Protein engineering |
