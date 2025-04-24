@@ -1,6 +1,6 @@
 # SciML jobs
 
-A running list of companies working with scientific machine learning.
+A running list of companies working with scientific machine learning. Feel free to make a pull request to add the (many) missing entries!
 
 | Company         | Domains                                   | Countries                 | Description |
 |----------------|--------------------------------------------|---------------------------|-----------------------------|
