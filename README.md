@@ -25,7 +25,12 @@ Contributions are welcome. Feel free to make a pull request to complement the en
 | [Zeus AI](https://myzeus.ai) | ☀️ Weather/climate forecasting |  🇺🇸 | - | - |
 | [Planet](https://www.planet.com) | 🛰️ Remote sensing |🇺🇸 |- | - |
 | [Single.earth](https://www.single.earth/our-approach) | 🌱 Nature-based solutions | 🇪🇪 | - | - |
-
+| [Climind](https://www.climind.co/home/) | 🌊Risk modelling | - | - | - |
+| [Pivotal.Earth](https://www.pivotal.earth) | 🛰️ Remote sensing | 🇬🇧 | - | - |
+| [Kraken](https://kraken.tech) | ⚡️ Energy | 🇬🇧 | - | PyTorch, TensorFlow, or Jax, |
+| [Excarta](https://www.excarta.io) | ☀️ Weather/climate forecasting | 🇺🇸 | - |- |
+| [REOR20](https://www.reor20.com) | 🌊Risk modelling | 🇨🇭 | - | - |
+| [Overstory](https://www.overstory.com) | 🌊Risk modelling | 🇺🇸 | - | - |
 
 ## Other resources
 - [A running list of 300+ companies hiring for geospatial & climate-tech roles](https://www.linkedin.com/pulse/running-list-200-companies-hiring-geospatial-roles-ali-ahmadalipour/)
